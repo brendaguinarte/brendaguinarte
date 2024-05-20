@@ -43,8 +43,8 @@ You can reach me on [Linkedin](https://www.linkedin.com/in/brenda-guinarte/) or 
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendaguinarte&hide=html,javascript&layout=compact&show_icons=true&theme=dracula" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=brendaguinarte&hide=contribs&show_icons=true&theme=dracula" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendaguinarte&hide=html,javascript&layout=compact&show_icons=true&theme=omni" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=brendaguinarte&hide=contribs&show_icons=true&theme=omni" /></td>
     </tr>   
   </table>
 </center>  
